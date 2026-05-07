@@ -1,6 +1,6 @@
 # ⚙️ Installation & Setup Guide
 
-## Prerequisites
+# Prerequisites
 
 Make sure the following are installed on your system:
 
