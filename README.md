@@ -22,7 +22,7 @@ npm install
 
 # 📦 Install Backend Dependencies
 
-Move to backend folder:
+Move to the backend folder:
 
 ```bash
 cd backend
@@ -34,7 +34,7 @@ Install required Node.js packages:
 npm install
 ```
 
-Install required Python packages:
+Install necessary Python packages:
 
 ```bash
 pip install fastapi uvicorn mtcnn opencv-python tensorflow numpy pandas pymongo
